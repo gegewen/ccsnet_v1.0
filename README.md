@@ -1,5 +1,7 @@
 # CCSNet: a deep learning modeling suite for CO2 storage
 
+  Gege Wen, Catherine Hay, Sally M. Benson, CCSNet: a deep learning modeling suite for CO2 storage, Advances in Water Resources(2021), doi:https://doi.org/10.1016/j.advwatres.2021.104009
+
 The data set and pre-trained models were used in the above manuscript published in Advances in Water Resources
 
 ## 1. Data sets
