@@ -49,4 +49,4 @@ The data set is available at https://drive.google.com/drive/folders/1SVZFkaxkAIj
 
 The pre-trained models are hosted at [ccsnet.ai](ccsnet.ai). 
 
-Please efer to https://youtu.be/5bIlfjyo6Jkfor a video demonstration.
+Please refer to https://youtu.be/5bIlfjyo6Jkfor a video demonstration.
