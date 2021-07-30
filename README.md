@@ -4,7 +4,7 @@ Gege Wen, Catherine Hay, Sally M. Benson, CCSNet: a deep learning modeling suite
 ![abstract](https://user-images.githubusercontent.com/34537648/127579929-acdcca8c-0123-4375-aa8b-42eaf1252022.jpg)
 
 
-## 1. Data sets
+## Data sets
 
 The data set is available at https://drive.google.com/drive/folders/1SVZFkaxkAIjcGKew3rzGTmKW5tSBUGf7?usp=sharing 
 
@@ -30,7 +30,7 @@ The data set is available at https://drive.google.com/drive/folders/1SVZFkaxkAIj
 - Liquid phase density: `test_y_BDENW.h5`
 - Gas phase density: `test_y_BDENG.h5`
 
-## 2. Pre-trained models
+## Pre-trained models
 
 The data set is available at https://drive.google.com/drive/folders/1SVZFkaxkAIjcGKew3rzGTmKW5tSBUGf7?usp=sharing 
 
@@ -41,7 +41,10 @@ The data set is available at https://drive.google.com/drive/folders/1SVZFkaxkAIj
 - Liquid phase density: `trained_models/bdenw_v1.h5`
 - Gas phase density: `trained_models/bdeng_v1.h5`
 
-## 3. Requirements
+## Requirements
 - The models require `tensorflow==1.15`.
 
+## Web application
 
+The pre-trained models are hosted at [ccsnet.ai](ccsnet.ai). 
+Please efer to https://youtu.be/5bIlfjyo6Jkfor a video demonstration.
