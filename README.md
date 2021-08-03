@@ -43,7 +43,8 @@ The data set is available at https://drive.google.com/drive/folders/1SVZFkaxkAIj
 - Gas phase density: `trained_models/bdeng_v1.h5`
 
 ## Requirements
-- The models require `tensorflow==1.15`.
+- `tensorflow==1.15`
+- `1.19.0`
 
 ## Web application
 
